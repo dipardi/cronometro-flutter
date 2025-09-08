@@ -32,7 +32,12 @@ flutter pub get
 4. Execute o aplicativo
 flutter run
 
-# 4.🎬 Vídeo de Demonstração
+# 4.🎬 Vídeo e Foto de Demonstração
+
+<img width="401" height="894" alt="image" src="https://github.com/user-attachments/assets/8475a371-d8d6-4fb1-ad09-bbfc48d32822" />
+
+
+
 (https://www.loom.com/share/ee058618b41349dbae30076aad73ca86?sid=434c096f-aa94-4206-b6ef-fed595f17494)
 
 # 5. Criadores
