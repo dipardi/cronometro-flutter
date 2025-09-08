@@ -1,16 +1,47 @@
-# cronometro
+# 1. 📖 Sobre o Projeto
+Este é um aplicativo de cronômetro de voltas desenvolvido em Flutter como parte de um projeto acadêmico. O principal objetivo foi aplicar o design pattern MVVM (Model-View-ViewModel) para criar uma arquitetura de software limpa, separando a lógica de negócio da interface do usuário.
 
-A new Flutter project.
+O aplicativo também inclui recursos de acessibilidade e notificações, garantindo uma experiência de usuário mais completa e inclusiva.
 
-## Getting Started
+# 2. ✨ Funcionalidades
+Cronômetro Principal: 
 
-This project is a starting point for a Flutter application.
+  Iniciar, pausar e zerar a contagem de tempo.
+  Registro de Voltas: Marcar tempos de volta individuais, que são exibidos em uma lista.
+  Lista de Voltas Detalhada: Cada item na lista mostra o número da volta, o tempo daquela volta e o tempo total acumulado no momento do registro.
+  
+Notificações:
+  Uma notificação persistente é exibida enquanto o cronômetro está ativo.
+  Uma nova notificação é disparada a cada volta registrada.
+  
+Acessibilidade:
+  Widgets como Semantics foram utilizados para garantir que leitores de tela possam interpretar corretamente as informações e os botões.
 
-A few resources to get you started if this is your first Flutter project:
+# 3. 🚀 Como Baixar e Usar
+Para rodar este projeto localmente, siga os passos abaixo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone o repositório
+git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/cronometro-flutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navegue até a pasta do projeto
+cd cronometro-flutter
+
+3. Instale as dependências
+flutter pub get
+
+4. Execute o aplicativo
+flutter run
+
+# 4.🎬 Vídeo e Foto de Demonstração
+
+<img width="401" height="894" alt="image" src="https://github.com/user-attachments/assets/8475a371-d8d6-4fb1-ad09-bbfc48d32822" />
+
+
+
+(https://www.loom.com/share/ee058618b41349dbae30076aad73ca86?sid=434c096f-aa94-4206-b6ef-fed595f17494)
+
+# 5. Criadores
+
+Marcos Eduardo Yashima Di Pardi
+
+Willian Ucha
