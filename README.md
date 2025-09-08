@@ -16,32 +16,40 @@ Notificações:
   
 Acessibilidade:
   Widgets como Semantics foram utilizados para garantir que leitores de tela possam interpretar corretamente as informações e os botões.
+  
 
-# 3. 🚀 Como Baixar e Usar
+  # 3. 🛠️ Pacotes Utilizados
+provider: Utilizado para a implementação do padrão MVVM, gerenciando o estado e a comunicação entre a View e o ViewModel.
+
+flutter_local_notifications: Utilizado para criar e gerenciar as notificações locais do sistema Android.
+
+
+# 4. 🚀 Como Baixar e Usar
 Para rodar este projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório
-git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/cronometro-flutter.git
+1. Na página do repositório no GitHub, clique no botão verde < > Code.
 
-2. Navegue até a pasta do projeto
-cd cronometro-flutter
+2. No menu que aparecer, selecione a opção "Download ZIP".
 
-3. Instale as dependências
-flutter pub get
+3. Após o download, descompacte o arquivo .zip em um local de sua preferência (ex: C:\dev\).
 
-4. Execute o aplicativo
-flutter run
+4. Abra o Android Studio.
 
-# 4.🎬 Vídeo e Foto de Demonstração
+5. No menu inicial, clique em "Open" e navegue até a pasta do projeto que você acabou de descompactar.
+
+6. Aguarde o Android Studio carregar o projeto. Em seguida, pressione o botão Run 'main.dart' (o ícone de play verde ▶️) para executar o aplicativo.
+
+# 5.🎬 Vídeo e Foto de Demonstração
 
 <img width="401" height="894" alt="image" src="https://github.com/user-attachments/assets/8475a371-d8d6-4fb1-ad09-bbfc48d32822" />
 
 
 
+
 (https://www.loom.com/share/ee058618b41349dbae30076aad73ca86?sid=434c096f-aa94-4206-b6ef-fed595f17494)
 
-# 5. Criadores
 
+# 6. 🧑‍💻 Idealizadores
 Marcos Eduardo Yashima Di Pardi
 
 Willian Ucha
