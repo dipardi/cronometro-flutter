@@ -34,3 +34,7 @@ flutter run
 
 # 4.🎬 Vídeo de Demonstração
 (https://www.loom.com/share/ee058618b41349dbae30076aad73ca86?sid=434c096f-aa94-4206-b6ef-fed595f17494)
+
+# 5. Criadores
+Marcos Eduardo Yashima Di Pardi
+Willian Ucha
